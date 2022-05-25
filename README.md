@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solgsz&label=Profile%20views&color=0e75b6&style=flat" alt="solgsz" /> </p>
 
-- 🔭 Me encuentro realizando el trabajo final para el titulo intermedio de Analista, el mismo corresponde a un **Software de veterinaria creado en C#**
-
-- 🌱 Actualmente estoy aprendiendo **pyhton**
-
 - 📝 Estudio Ingenieria en sistemas en la UAI(Universidad Abierta Interamericana) [https://uai.edu.ar/](https://uai.edu.ar/)
 
 <h3 align="left">Connect with me:</h3>
